@@ -1,6 +1,7 @@
 # Jokenpô com Skynet
 
-````markdown
+````
+
 # Jokenpô com Skynet
 
 Este projeto é a primeira atividade para a disciplina de **Tópicos Avançados em Inteligência Computacional** do **CIn-UFPE**. Ele demonstra a integração de um modelo de **Visão Computacional** com uma aplicação interativa.
@@ -55,15 +56,14 @@ projeto-jokenpo/
 ├── README.md              # Documentação principal
 ├── requirements.txt       # Dependências do projeto
 └── src/                   # Diretório de código-fonte
-    ├── app.py             # Lógica principal da aplicação Streamlit
-    ├── regras.py          # Regras do jogo
-    ├── ui.py              # Funções da interface
-    utils/                 # Utilitários e arquivos do modelo
+│   ├── app.py             # Lógica principal da aplicação Streamlit
+│   ├── regras.py          # Regras do jogo
+│   └── ui.py              # Funções da interface
+└── utils/                 # Utilitários e arquivos do modelo
     ├── __init__.py
     ├── modelo.py          # Funções para carregar e usar o modelo da IA
     ├── keras_model.h5     # Arquivo do modelo treinado
     └── labels.txt         # Rótulos das classes do modelo
-
 
 ---
 
