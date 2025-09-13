@@ -1,4 +1,4 @@
-# Jokenpô com Skynet
+# Jokenpô com Skynet  
 
 Este projeto é a primeira atividade para a disciplina de **Tópicos Avançados em Inteligência Computacional** do **CIn-UFPE**. Ele demonstra a integração de um modelo de **Visão Computacional** com uma aplicação interativa.
 
